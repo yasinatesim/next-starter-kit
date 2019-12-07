@@ -1,5 +1,5 @@
 import React from 'react';
-import Link from 'next/link'
+import Link from 'next/link';
 
 const links = [
   { href: 'https://zeit.co/now', label: 'ZEIT' },
