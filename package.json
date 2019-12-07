@@ -1,0 +1,37 @@
+{
+  "name": "beenroll",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "eslint components pages --fix && next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "precommit": "lint-staged",
+  "lint-staged": {
+    "*.{js,jsx}": [
+      "pretty-quick --staged",
+      "eslint components pages --fix",
+      "git add"
+    ]
+  },
+  "dependencies": {
+    "next": "9.1.4",
+    "react": "16.12.0",
+    "react-dom": "16.12.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.7.2",
+    "eslint-config-airbnb": "^18.0.1",
+    "eslint-config-prettier": "^6.7.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-prettier": "^3.1.1",
+    "eslint-plugin-react": "^7.17.0",
+    "husky": "^3.1.0",
+    "lint-staged": "^9.5.0",
+    "prettier": "^1.19.1",
+    "pretty-quick": "^2.0.1"
+  }
+}
