@@ -7,11 +7,15 @@
     "build": "next build",
     "start": "next start"
   },
-  "precommit": "lint-staged",
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
   "lint-staged": {
     "*.{js,jsx}": [
-      "pretty-quick --staged",
       "eslint components pages --fix",
+      "pretty-quick --staged",
       "git add"
     ]
   },
