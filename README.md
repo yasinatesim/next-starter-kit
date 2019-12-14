@@ -5,7 +5,7 @@
 </p>    
 <h2 align="center">Next.Js Starter Kit</h2>
 
-This project is 
+This project is a starter kit for develop the front-end web applications with Next.js
 
 ### Features
 
