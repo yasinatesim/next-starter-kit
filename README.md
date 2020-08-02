@@ -140,7 +140,7 @@ This project is a starter kit for develop the front-end web applications with Ne
 
 ```bash
 
-git clone https://github.com/yasinatesim/yasinates.com.git
+git clone https://github.com/yasinatesim/next-starter-kit.git
 
 ```
 
