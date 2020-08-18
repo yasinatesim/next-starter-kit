@@ -67,7 +67,7 @@ This project is a starter kit for develop the front-end web applications with Ne
 
 <td>
 
-<a  href="https://sass-lang.com/](https://sass-lang.com/">SASS</a>
+<a  href="https://sass-lang.com/">SASS</a>
 
 </td>
 
@@ -103,7 +103,7 @@ This project is a starter kit for develop the front-end web applications with Ne
 
 <td>
 
-<a  href="https://eslint.org/">Prettier</a>
+<a  href="https://prettier.io/">Prettier</a>
 
 </td>
 
