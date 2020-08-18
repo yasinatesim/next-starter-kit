@@ -17,7 +17,7 @@
 
 ## 📖 About
   
-  <img width="500" src="https://yasinates.com/next-starter-kit.png">
+  <img width="500" src="https://yasinates.com/next-starter-kit.jpg">
 
 This project is a starter kit for develop the front-end web applications with Next.js 😎
 
