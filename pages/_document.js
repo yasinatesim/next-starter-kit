@@ -24,7 +24,7 @@ class AppDocument extends Document {
 
   render() {
     return (
-      <html {...this.helmetHtmlAttrComponents} lang="en">
+      <html {...this.helmetHtmlAttrComponents}>
         <Head>{this.helmetHeadComponents}</Head>
         <body {...this.helmetBodyAttrComponents}>
           <Main />
