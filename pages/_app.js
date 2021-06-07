@@ -2,8 +2,7 @@ import { Helmet } from 'react-helmet'
 import PropTypes from 'prop-types';
 
 // Styles
-import '@/scss/app.scss';
-
+import '@/assets/scss/app.scss';
 function Layout({ Component, pageProps }) {
   return (
     <>
