@@ -16,12 +16,11 @@
     "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.24.1",
     "husky": "^4.2.5",
-    "md5": "^2.2.1",
-    "next": "11.1.0",
-    "next-images": "^1.4.0",
+    "next": "^11.0.0",
+    "next-images": "^1.8.1",
     "prop-types": "^15.7.2",
-    "react": "16.13.1",
-    "react-dom": "16.13.1",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
     "react-helmet": "^6.1.0"
   },
   "devDependencies": {

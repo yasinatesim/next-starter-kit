@@ -44,6 +44,7 @@
     "object-curly-newline" : "off",
     "react/forbid-prop-types" : "off",
     "react/no-danger" : "off",
+    "import/extensions" : "off",
     "camelcase": "off",
     "max-len": "off"
   }

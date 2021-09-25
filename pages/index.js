@@ -1,4 +1,4 @@
-import AboutMe from '@/containers/about-me'
+import AboutMe from '@/containers/about-me';
 
 function Home() {
   return (
