@@ -1,6 +1,6 @@
 
-  
-  
+
+
 <h3 align="center">
   <br>
   <a href="https://github.com/yasinatesim/next-starter-kit"><img src="https://yasinates.com/tech/next.svg" alt="Next Starter Kit" width="200"></a>
@@ -13,17 +13,17 @@
 
 <p  align="center">This project is a starter kit for develop the front-end web applications with Next.js 😎</p>
 
-   
+
 
 ## 📖 About
-  
+
   <img width="500" src="https://yasinates.com/next-starter-kit.jpg">
 
 This project is a starter kit for develop the front-end web applications with Next.js 😎
 
 ### 📚Tech Stack
 
-  
+
 
 <table>
 
@@ -51,11 +51,16 @@ This project is a starter kit for develop the front-end web applications with Ne
 
 </tr>
 
+  <tr>
+    <td><a href="https://www.typescriptlang.org/">TypeScript</a></td>
+    <td>TypeScript is a strongly typed programming language that builds on JavaScript, giving you better tooling at any scale.</td>
+  </tr>
+
 <tr>
 
 <td>
 
-<a  href="https://github.com/css-modules/css-modules">CSS Module</a>
+<a  href="https://github.com/css-modules/css-modules">CSS Modules</a>
 
 </td>
 
@@ -113,30 +118,30 @@ This project is a starter kit for develop the front-end web applications with Ne
 
 </table>
 
-  
-  
+
+
 
 ## Getting Started
 
-  
+
 
 ### 📦 Prerequisites
 
-  
 
-- Node (v12.0.0+)
+
+- Node (v14.0.0+)
 
 - Npm (v6.00+)
 
-  
+
 
 ### ⚙️ How To Use
 
-  
+
 
 1. Clone this repository
 
-  
+
 
 ```bash
 
@@ -161,7 +166,7 @@ yarn dev
 
 ```
 
-  
+
 
 **For Production Build & Build Start**
 
@@ -171,11 +176,11 @@ yarn build
 
 ```
 
-  
+
 
 and
 
-  
+
 
 ```bash
 
@@ -183,7 +188,7 @@ yarn start
 
 ```
 
-  
+
 
 **For Export [SSG](https://www.staticgen.com/)**
 
@@ -193,7 +198,7 @@ yarn export
 
 ```
 
-  
+
 
 **For Lint & Format**
 
@@ -205,10 +210,14 @@ yarn format
 
 ```
 
-  
+
 
 ## 🔑 License
 
-* Copyright © 2020 - MIT License.
+* Copyright © 2023 - MIT License.
 
 See `LICENSE` for more information.
+
+---
+
+_This README was generated with by [markdown-manager](https://github.com/yasinatesim/markdown-manager)_ 🥲
