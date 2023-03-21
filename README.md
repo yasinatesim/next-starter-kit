@@ -166,7 +166,7 @@ yarn start
 2. Change the directory
 
 ```bash
-cd react-promotion-list
+cd next-starter-kit
 ```
 
 3. Run this command **without `yarn` or `yarn install`**
