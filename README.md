@@ -115,7 +115,7 @@ This project is a starter kit for develop the front-end web applications with Ne
 
 ### 📦 Prerequisites
 
-- Node (v14.0.0+)
+- Node (v18.0.0+)
 
 - Npm (v6.00+)
 
@@ -160,6 +160,30 @@ and
 yarn start
 
 ```
+
+
+### For Docker
+
+2. Change the directory
+
+```bash
+cd react-promotion-list
+```
+
+
+3. Run this command **without `yarn` or `yarn install`**
+
+```bash
+yarn setup
+```
+
+or
+
+```bash
+yarn && docker-compose up --build
+```
+
+App is running to  [http://localhost:3000/](http://localhost:3000/)
 
 **For Export [SSG](https://www.staticgen.com/)**
 
