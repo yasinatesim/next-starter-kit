@@ -145,22 +145,6 @@ yarn dev
 
 ```
 
-**For Production Build & Build Start**
-
-```bash
-
-yarn build
-
-```
-
-and
-
-```bash
-
-yarn start
-
-```
-
 ### For Docker
 
 2. Change the directory
@@ -182,6 +166,23 @@ yarn && docker-compose up --build
 ```
 
 App is running to [http://localhost:3000/](http://localhost:3000/)
+
+
+**For Production Build & Build Start**
+
+```bash
+
+yarn build
+
+```
+
+and
+
+```bash
+
+yarn start
+
+```
 
 **For Export [SSG](https://www.staticgen.com/)**
 
