@@ -161,7 +161,6 @@ yarn start
 
 ```
 
-
 ### For Docker
 
 2. Change the directory
@@ -169,7 +168,6 @@ yarn start
 ```bash
 cd react-promotion-list
 ```
-
 
 3. Run this command **without `yarn` or `yarn install`**
 
@@ -183,7 +181,7 @@ or
 yarn && docker-compose up --build
 ```
 
-App is running to  [http://localhost:3000/](http://localhost:3000/)
+App is running to [http://localhost:3000/](http://localhost:3000/)
 
 **For Export [SSG](https://www.staticgen.com/)**
 
