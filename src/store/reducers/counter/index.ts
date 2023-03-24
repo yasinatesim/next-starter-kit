@@ -3,7 +3,6 @@ import { createSlice } from '@reduxjs/toolkit';
 import { decrementAction, incrementAction } from './actions';
 import initialState from './initialState';
 
-
 const counterSlice = createSlice({
   name: 'counter',
   initialState,

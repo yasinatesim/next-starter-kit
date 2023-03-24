@@ -6,8 +6,8 @@ import { decrement, increment } from '@/store/reducers/counter';
 import styles from './Counter.module.scss';
 
 const Counter = () => {
-	const dispatch = useDispatch();
-	const count = useCount()
+  const dispatch = useDispatch();
+  const count = useCount();
 
   return (
     <div className={styles.counter}>

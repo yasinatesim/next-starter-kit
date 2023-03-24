@@ -1,5 +1,4 @@
-import { CounterState } from "./types";
-
+import { CounterState } from './types';
 
 const initialState: CounterState = {
   value: 0,

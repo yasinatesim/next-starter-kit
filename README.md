@@ -167,7 +167,6 @@ yarn && docker-compose up --build
 
 App is running to [http://localhost:3000/](http://localhost:3000/)
 
-
 **For Production Build & Build Start**
 
 ```bash
