@@ -3,7 +3,7 @@
   "version": "2.2.0",
   "scripts": {
     "dev": "next dev",
-    "build": "next build ",
+    "build": "next build",
     "start": "next start",
     "lint": "next lint --fix && tsc&& prettier --check --ignore-path .prettierignore .",
     "format": "prettier --write --ignore-unknown .",
@@ -33,11 +33,5 @@
     "lint-staged": "^15.2.0",
     "prettier": "^3.2.1",
     "typescript": "^5"
-  },
-  "lint-staged": {
-    "**/*.{js,jsx,ts,tsx}": [
-      "npm run lint",
-      "npm run format"
-    ]
   }
 }
