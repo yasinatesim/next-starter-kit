@@ -9,7 +9,6 @@ type Classnames = {
 };
 
 
-
 type Props = {
   classnames?: Classnames;
   type?: 'button' | 'submit' | 'reset' | undefined;
